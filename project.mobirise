@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site 2025-04-26 01:06",
+    "name": "Gaia Soluciones",
     "currentPage": "index.html",
     "theme": {
       "name": "startm5",
@@ -36,6 +36,20 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "6.0.1",
     "siteFonts": [],
+    "chatbutton": {},
+    "favicon": "@PROJECT_PATH@/assets/images/01-app-icons.png",
+    "mbrsiteDomain": "a7zcjruyuc",
+    "imageResize": false,
+    "usedWebp": false,
+    "cssOptimize": false,
+    "lazyLoad": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "pwa-switcher": false,
     "uniqCompNum": 1,
     "versionPublish": "6.0.1"
   },
